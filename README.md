@@ -10,17 +10,17 @@ Develop a comprehensive and gamified home gym solution for individuals facing ba
 
 3) LLM Gymbro: Get advice and answers to any kind of queries related to workout, gym, health and fitness that you usually get from people at the gym from our personalized LLM.
 
-## TECH STACK
+## Tech Stack
 **SmartPy**, Python, HTML, CSS, JS
 
-## BUSINESS PLAN
+## Business Plan
 - Users can get **TEZOS XTZ tokens** by performing well in the gym which can be used in the NFT marketplace 
 - Users can purchase credits to access our services (freemium model)
 
-## SOCIAL IMPACT
+## Social Impact
 Our website goes beyond fitness—it fosters a positive social impact by democratizing access to health and well-being. By eliminating barriers to traditional gyms, such as financial constraints and parental restrictions, we promote inclusivity in fitness. This means more people, regardless of their background or circumstances, can prioritize their health. 
 
-## COMMANDS TO RUN
+## Commands to Run
 
 1) Computer Vision Posture Trainer:
 
