@@ -11,7 +11,7 @@ Develop a comprehensive and gamified home gym solution for individuals facing ba
 3) LLM Gymbro: Get advice and answers to any kind of queries related to workout, gym, health and fitness that you usually get from people at the gym from our personalized LLM.
 
 ## Tech Stack
-**SmartPy**, Python, HTML, CSS, JS
+**SmartPy**, Python, Unity, Blender, HTML, CSS, JS
 
 ## Business Plan
 - Users can get **TEZOS XTZ tokens** by performing well in the gym which can be used in the NFT marketplace 
