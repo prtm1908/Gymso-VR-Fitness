@@ -1,7 +1,7 @@
 # Gymso VR Fitness
 
 ## Problem Statement
-Develop a comprehensive and gamified home gym solution for individuals facing barriers like parental restrictions or financial limitations, ensuring they can access quality fitness experiences at home using by combining TEZOS blockchain with VR.
+Develop a comprehensive and gamified home gym solution for individuals facing barriers like parental restrictions or financial limitations, ensuring they can access quality fitness experiences at home using by combining **TEZOS blockchain** with **VR**.
 
 ## Features
 1) **TEZOS Blockchain NFT MARKETPLACE** & VR Gym: The site provides a VR Gym so you get an authentic experience. You can see your friends and what they are doing in the form of 3D avatars inside the virtual gym. Users can buy skins for their characters and different backgrounds in the VR world using NFTs from the **TEZOS-based blockchain** marketplace **OBJKT.COM**
