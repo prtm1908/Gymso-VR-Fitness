@@ -23,7 +23,7 @@ https://drive.google.com/file/d/1iYaOAyxXvKbOXOm0pmW_cy0X7a4oITYQ/view?usp=shari
 
 ## Features
 1) **TEZOS Blockchain NFT MARKETPLACE** & VR Gym: The site provides a VR Gym so you get an authentic experience. You can see your friends and what they are doing in the form of 3D avatars inside the virtual gym. Users can buy skins for their characters and different backgrounds in the VR world using NFTs from the **TEZOS-based blockchain** marketplace **OBJKT.COM**
-<img width="600" alt="Screenshot 2023-11-30 101503" src=https://github.com/Cappybara12/POLYGON-NFT-MARKETPLACE/assets/122734275/18400514-4db8-4111-83f2-3c20e0cdfcb4>
+<img width="600" alt="Screenshot 2023-11-30 101503" src=https://github.com/Cappybara12/POLYGON-NFT-MARKETPLACE/assets/122734275/663ed3ec-54e2-47ec-8f4d-ad8484ba9b1b>
 <img width="600" alt="Screenshot 2023-11-30 101503" src=https://github.com/Cappybara12/POLYGON-NFT-MARKETPLACE/assets/122734275/18400514-4db8-4111-83f2-3c20e0cdfcb4>
 
 
