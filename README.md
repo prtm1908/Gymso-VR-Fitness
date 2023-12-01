@@ -11,6 +11,20 @@ Develop a comprehensive and gamified home gym solution for individuals facing ba
 2) Computer Vision Posture Trainer: The site provides a computer vision trainer that properly evaluates if your exercise form is correct or not, it helps you correct it and only counts a rep if the form is right.
 
 3) LLM Gymbro: Get advice and answers to any kind of queries related to workout, gym, health and fitness that you usually get from people at the gym from our personalized LLM.
+## TEZOS NFT Marketplace
+
+For our NFT Marketplace built on the Polygon blockchain, we offer exciting features:
+
+- **Sell Digital Assets:** List and sell your digital fitness assets securely on the blockchain.
+- **Create Dashboard:** Access a personalized dashboard to manage your listed digital assets, track sales, and more.
+- **My Digital Assets:** Easily view and manage the digital assets you own through a dedicated section.
+
+To explore our NFT Marketplace and its source code, visit our [Polygon NFT Marketplace Repository](https://github.com/Cappybara12/POLYGON-NFT-MARKETPLACE).
+<img width="600" alt="Screenshot 2023-11-30 095745" src="https://github.com/Cappybara12/POLYGON-NFT-MARKETPLACE/assets/122734275/bdc76de0-9e18-4175-822c-c1d8fb87fe2f">
+<img width="600" alt="Screenshot 2023-11-30 095834" src="https://github.com/Cappybara12/POLYGON-NFT-MARKETPLACE/assets/122734275/0d5446db-c294-420d-87fa-b67f29896472">
+<img width="447" alt="Screenshot 2023-12-01 225531" src="https://github.com/Kkkiiiirran/HackBPIT/assets/122734275/ee84f8e4-151e-4437-887e-66587285c302">
+<img width="433" alt="Screenshot 2023-12-01 225543" src="https://github.com/Kkkiiiirran/HackBPIT/assets/122734275/dc9ef2a6-0033-4fde-ac61-8a953a3b882b">
+<img width="960" alt="Screenshot_20230122_185539" src="https://github.com/Kkkiiiirran/HackBPIT/assets/122734275/27549449-88b0-41b6-bcd1-dabd4c62d85f">
 
 ## Tech Stack
 **SmartPy**, Python, Unity, Blender, HTML, CSS, JS
