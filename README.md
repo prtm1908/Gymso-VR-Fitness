@@ -12,8 +12,12 @@ The projects consists of a **NFT marketplace** using where people can buy **skin
 1) **TEZOS Blockchain NFT MARKETPLACE** & VR Gym: The site provides a VR Gym so you get an authentic experience. You can see your friends and what they are doing in the form of 3D avatars inside the virtual gym. Users can buy skins for their characters and different backgrounds in the VR world using NFTs from the **TEZOS-based blockchain** marketplace **OBJKT.COM**
 
 2) Computer Vision Posture Trainer: The site provides a computer vision trainer that properly evaluates if your exercise form is correct or not, it helps you correct it and only counts a rep if the form is right.
+3)    (<img width="600" alt="Screenshot 2023-11-30 101503" src=https://github.com/Cappybara12/POLYGON-NFT-MARKETPLACE/assets/122734275/73f596d6-407f-4568-af10-830722622550>)
 
-3) LLM Gymbro: Get advice and answers to any kind of queries related to workout, gym, health and fitness that you usually get from people at the gym from our personalized LLM.
+
+4) LLM Gymbro: Get advice and answers to any kind of queries related to workout, gym, health and fitness that you usually get from people at the gym from our personalized LLM.
+5) (<img width="600" alt="Screenshot 2023-11-30 101503" src=https://github.com/Cappybara12/POLYGON-NFT-MARKETPLACE/assets/122734275/9c9e52b2-85f2-43c3-a9b3-3d047a67f2e4>)
+
 ## TEZOS NFT Marketplace
 
 For our NFT Marketplace built on the Polygon blockchain, we offer exciting features:
