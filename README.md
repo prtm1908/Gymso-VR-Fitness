@@ -18,7 +18,7 @@ For our NFT Marketplace built on the Tezos blockchain, we offer exciting feature
 <img width="433" alt="Screenshot 2023-12-01 225543" src="https://github.com/Kkkiiiirran/HackBPIT/assets/122734275/dc9ef2a6-0033-4fde-ac61-8a953a3b882b">
 
 ## Project Video
-https://drive.google.com/file/d/1iYaOAyxXvKbOXOm0pmW_cy0X7a4oITYQ/view?usp=sharing
+https://drive.google.com/file/d/19VcPR1e5T21H8I6eL3e4TCQyVGRek0wu/view?usp=sharing
 
 ## Features
 1) **TEZOS Blockchain NFT MARKETPLACE** & VR Gym: The site provides a VR Gym so you get an authentic experience. You can see your friends and what they are doing in the form of 3D avatars inside the virtual gym. Users can buy skins for their characters and different backgrounds in the VR world using NFTs from the **TEZOS-based blockchain** marketplace **OBJKT.COM**
