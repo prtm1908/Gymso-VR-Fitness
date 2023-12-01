@@ -19,7 +19,6 @@ For our NFT Marketplace built on the Polygon blockchain, we offer exciting featu
 - **Create Dashboard:** Access a personalized dashboard to manage your listed digital assets, track sales, and more.
 - **My Digital Assets:** Easily view and manage the digital assets you own through a dedicated section.
 
-To explore our NFT Marketplace and its source code, visit our [Polygon NFT Marketplace Repository](https://github.com/Cappybara12/POLYGON-NFT-MARKETPLACE).
 <img width="600" alt="Screenshot 2023-11-30 095745" src="https://github.com/Cappybara12/POLYGON-NFT-MARKETPLACE/assets/122734275/bdc76de0-9e18-4175-822c-c1d8fb87fe2f">
 <img width="600" alt="Screenshot 2023-11-30 095834" src="https://github.com/Cappybara12/POLYGON-NFT-MARKETPLACE/assets/122734275/0d5446db-c294-420d-87fa-b67f29896472">
 <img width="447" alt="Screenshot 2023-12-01 225531" src="https://github.com/Kkkiiiirran/HackBPIT/assets/122734275/ee84f8e4-151e-4437-887e-66587285c302">
