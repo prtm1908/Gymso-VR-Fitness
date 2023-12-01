@@ -24,8 +24,6 @@ To explore our NFT Marketplace and its source code, visit our [Polygon NFT Marke
 <img width="600" alt="Screenshot 2023-11-30 095834" src="https://github.com/Cappybara12/POLYGON-NFT-MARKETPLACE/assets/122734275/0d5446db-c294-420d-87fa-b67f29896472">
 <img width="447" alt="Screenshot 2023-12-01 225531" src="https://github.com/Kkkiiiirran/HackBPIT/assets/122734275/ee84f8e4-151e-4437-887e-66587285c302">
 <img width="433" alt="Screenshot 2023-12-01 225543" src="https://github.com/Kkkiiiirran/HackBPIT/assets/122734275/dc9ef2a6-0033-4fde-ac61-8a953a3b882b">
-<img width="960" alt="Screenshot_20230122_185539" src="https://github.com/Kkkiiiirran/HackBPIT/assets/122734275/27549449-88b0-41b6-bcd1-dabd4c62d85f">
-<img width="960" alt="Screenshot_20230122_185539" src="https://github.com/Kkkiiiirran/HackBPIT/assets/122734275/27549449-88b0-41b6-bcd1-dabd4c62d85f">
 
 ## Tech Stack
 **SmartPy**, Python, Unity, Blender, HTML, CSS, JS
